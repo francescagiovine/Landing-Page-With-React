@@ -1,4 +1,12 @@
-
+.jumbotron {
+    margin: 50px;
+    padding: 50px;
+    background-color: whitesmoke;
+}
+.card-group {
+    margin: 50px;
+    margin-bottom: 100px;
+}
 /* 
 
     You can write your own styles here...
