@@ -2,10 +2,10 @@ import React from "react";
 
 export const Footer = () => {
 	return (
-		<nav className="navbar fixed-bottom navbar-light bg-light">
-			<a className="navbar-brand" href="#">
-				Really Cool Footer
-			</a>
-		</nav>
+		<footer className="footer bg-dark  py-3  text-center d-flex align-items-center">
+			<div className="container-md">
+				<span className="text-muted">Really cool footer</span>
+			</div>
+		</footer>
 	);
 };
